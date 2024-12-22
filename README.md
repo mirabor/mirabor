@@ -3,7 +3,6 @@
 
 <div align="center">
 
-# Hello! I'm Mira ✌️
+# ‧͙⁺˚*･༓☾ hi, i'm [mira](https://mirabor.github.io/)!
 
-[more about me](https://mirabor.github.io/)
 </div>
