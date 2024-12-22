@@ -5,5 +5,5 @@
 
 # Hello! I'm Mira ✌️
 
-[Personal Website](https://mirabor.github.io/)
+[more about me](https://mirabor.github.io/)
 </div>
